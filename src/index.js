@@ -16,3 +16,5 @@ function component() {
 }
 
 document.body.appendChild(component());
+console.log('today,the weather is goods')
+console.log('new features分支做了改动')
